@@ -18,3 +18,6 @@ In order to run the project, you need to run the following commands for dependen
 npm install
 npm start
 ```
+
+### Point
+As discussed before the assignment, partial frontend is also accepted, so I mainly focused at backend side.
